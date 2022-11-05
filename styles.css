@@ -11,9 +11,17 @@ body{
 }
 .assignment img{
     width:200px;
-    padding:10px;
+    margin: 10px;
+    border: 5px solid white;
 }
 h1{
     color:purple;
     
+}
+a{
+    text-decoration: none;
+    color:white ;
+}
+a:hover{
+    color:cyan;
 }
